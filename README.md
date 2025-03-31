@@ -14,8 +14,7 @@ Let's connect and see how we can collaborate or learn from each other!
 
 ## Skills
 
-<img height="20" src="https://cdn.simpleicons.org/python?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/python?viewbox=auto" /><img height="20" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />
 <img height="20" src="https://cdn.simpleicons.org/haskell?viewbox=auto" />
 <img height="20" src="https://cdn.simpleicons.org/rust?viewbox=auto" />
 <img height="20" src="https://cdn.simpleicons.org/cardano?viewbox=auto" />
