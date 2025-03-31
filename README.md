@@ -14,12 +14,12 @@ Let's connect and see how we can collaborate or learn from each other!
 
 ## Skills
 
-- ![Python](https://cdn.simpleicons.org/python?viewbox=auto) Python
-- ![Typescript](https://cdn.simpleicons.org/typescript?viewbox=auto) Typescript
-- ![Haskell](https://cdn.simpleicons.org/haskell?viewbox=auto) Haskell
-- ![Rust](https://cdn.simpleicons.org/rust?viewbox=auto) Rust
-- ![Cardano](https://cdn.simpleicons.org/cardano?viewbox=auto) Cardano
-- ![Solana](https://cdn.simpleicons.org/solana?viewbox=auto) Solana
+<img height="20" src="https://cdn.simpleicons.org/python?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/haskell?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/rust?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/cardano?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/solana?viewbox=auto" />
 
 ![GitHub followers](https://img.shields.io/github/followers/sonson0910?label=Followers&style=social)
 
