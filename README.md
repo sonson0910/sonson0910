@@ -24,9 +24,9 @@ I believe in **open-source collaboration**, **decentralization**, and building t
 
 ## 🏆 Achievements  
 
-- 🥇 **Winner – Vietnam Cardano Hackathon**  
-- 🥇 **Winner – Hackathon Hack 13 (Solana)**  
-- 🏅 **Top 5 – Aptos Vietnam Hackathon** *(GM Việt Nam)*  
+- 🥇 **Winner – Vietnam Cardano Hackathon Main Track**  
+- 🥇 **Winner – Hackathon Hack 13 Student Track (Solana)**  
+- 🏅 **Top 5 – Aptos Vietnam Hackathon Student Track** *(GM Việt Nam)*  
 
 ---
 
