@@ -27,9 +27,9 @@ I love contributing to open-source projects and exploring the intersection of AI
 
 ## 🏆 Achievements
 
-- 🥇 **Winner – Vietnam Cardano Hackathon**
-- 🥇 **Winner – Hackathon Hack 13 (Solana)**
-- 🏅 **Top 5 – Aptos Vietnam Hackathon** *(GM Việt Nam)*
+- 🥇 **Winner – Vietnam Cardano Hackathon Main Track**
+- 🥇 **Winner – Hackathon Hack 13 Student Track (Solana)**
+- 🏅 **Top 5 – Aptos Vietnam Hackathon Student Track** *(GM Việt Nam)*
 
 ---
 
