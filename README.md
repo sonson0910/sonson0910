@@ -74,9 +74,6 @@ I love contributing to open-source projects and exploring the intersection of AI
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/kai-bellingham-a34325283/]" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn"/>
-  </a>
   <a href="[https://x.com/sonsonux]" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000" height="30" alt="Twitter"/>
   </a>
