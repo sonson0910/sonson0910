@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 <!-- Banner -->
-<img src="https://i.ibb.co/0c8qvZd/ai-blockchain-banner.png" alt="AI Blockchain Banner" width="100%" />
+<img src="https://github.com/sonson0910/sonson0910/blob/main/banner.png" alt="AI Blockchain Banner" width="100%" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=AI+%7C+Blockchain+%7C+Quantum;Hackathon+Champion;Open-Source+Contributor;Decentralized+Future+Builder" alt="Typing SVG" />
